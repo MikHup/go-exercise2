@@ -1,3 +1,3 @@
-module github.com/MikHup/go-exercise2/greetings
+module github.com/MikHup/go-exercise2
 
 go 1.16
